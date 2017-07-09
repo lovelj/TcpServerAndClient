@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geoway.ADF.AsyncTcpClientApp", "AsyncTcpClient\Geoway.ADF.AsyncTcpClientApp.csproj", "{1D618E54-0CEF-462A-9A0E-B18B0650EEFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geoway.ADF.GwCommunication", "Geoway.ADF.TcpClient\Geoway.ADF.GwCommunication.csproj", "{1BFD4B63-82A7-46B7-A2A1-558CC446F987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D618E54-0CEF-462A-9A0E-B18B0650EEFB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1D618E54-0CEF-462A-9A0E-B18B0650EEFB}.Debug|Any CPU.Build.0 = Debug|x86
+		{1D618E54-0CEF-462A-9A0E-B18B0650EEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D618E54-0CEF-462A-9A0E-B18B0650EEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFD4B63-82A7-46B7-A2A1-558CC446F987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFD4B63-82A7-46B7-A2A1-558CC446F987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFD4B63-82A7-46B7-A2A1-558CC446F987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFD4B63-82A7-46B7-A2A1-558CC446F987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
